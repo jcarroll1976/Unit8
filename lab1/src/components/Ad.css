@@ -1,0 +1,21 @@
+.Ad {
+    display:inline-block;
+}
+
+.display-div {
+    border:2px solid;
+    border-color:#222;
+    color:#000;
+    width:200px;
+    text-align: center;
+    margin:20px;  
+}
+
+.darkTheme {
+    background-color:#222;
+    color:#fff;
+}
+
+.Ad p {
+    font-family: Caveat;
+}

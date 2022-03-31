@@ -1,0 +1,14 @@
+header {
+    color:#0e3c7e;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width:100%;
+    border-bottom:solid 2px lightgrey;
+    box-shadow: 20px lightgrey;
+}
+
+h1 {
+    font-family: Caveat;
+}

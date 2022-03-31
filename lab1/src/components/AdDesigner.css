@@ -1,0 +1,33 @@
+.AdDesigner h2 {
+    font-family: Caveat;
+}
+
+.AdDesigner p{
+    font-family: Caveat;
+}
+button:disabled {
+    background-color: grey;
+}
+.AdDesigner {
+    margin-left :10px;
+}
+
+ button {
+    margin:5px;
+    background-color:#0e3c7e;
+    color:white;
+    font-size:18px;
+}
+
+.ad-div {
+    border:2px solid;
+    border-color:#222;
+    color:#000;
+    width:200px;
+    text-align: center;
+}
+
+.darkTheme {
+    background-color:#222;
+    color:#fff;
+}
